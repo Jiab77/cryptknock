@@ -39,7 +39,7 @@ Cryptknockd Options:
 $ sudo cryptknockd -i [iface] -s [source port] -d [dest port]
 ```
 
-When the server starts, it firewalls all TCP ports using iptables. Remember, the client and server's source and destination UDP ports must agree. The "open ports" and "close ports" passwords can be set as `#defines` in the `cryptknockd.c` file. The daemon records successful and failed knocks via syslog.
+When the server starts, it firewalls all TCP ports using iptables. Remember, the client and server's source and destination UDP ports must agree. The `open ports` and `close ports` passwords can be set as `#defines` in the `cryptknockd.c` file. The daemon records successful and failed knocks via syslog.
 
 ## Last update
 
@@ -53,8 +53,7 @@ You'll find a backup of the version on [sourceforge](http://cryptknock.sourcefor
 
 ## Notes
 
-I'm (@Jiab77) not the original author of this work. It is [Joe Walko](mailto://joewalko@gmail.com) - [cryptknock.sourceforge.net](http://cryptknock.sourceforge.net)
-This is just a port on github I've done for later use.
+I'm not the original author of this work. It is [Joe Walko](mailto://joewalko@gmail.com) - [cryptknock.sourceforge.net](http://cryptknock.sourceforge.net). This is just a port on github I've done for later use.
 
 ## License
 
