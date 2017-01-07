@@ -101,6 +101,6 @@ A. Please upgrade your version of `libpcap` and see if that helps.
 
 Q. I found a bug/made an improvement! What should I do?
 
-A. Feel free to email [joewalko@gmail.com](mailto://joewalko@gmail.com) and let me know.
+A. Feel free to email [joewalko@gmail.com](mailto:joewalko@gmail.com) and let me know.
 
 --joe
