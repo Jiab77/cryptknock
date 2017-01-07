@@ -1,5 +1,5 @@
 # cryptknock
-Forked from sourceforge
+Encrypted Port Knocking Tool - Forked from sourceforge
 
 > This code is OLD. But might be useful for learning purposes with regards to libpcap, network programming, and openssl library functions.
 >
